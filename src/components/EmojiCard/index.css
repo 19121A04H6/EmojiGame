@@ -1,0 +1,17 @@
+.emoji-list {
+  background-image: linear-gradient(#ffffff33);
+  list-style-type: none;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px #ffffff;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.emoji-button {
+  background-color: transparent;
+  border: 0px solid;
+  border-radius: 30px;
+}
